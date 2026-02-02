@@ -1,46 +1,44 @@
-# Getting Started with Create React App
+# KCDS CRA 테스트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+KT Cloud Design System(KCDS) 컴포넌트를 Create React App 환경에서 테스트하기 위한 프로젝트입니다.
 
-## Available Scripts
+## 설치
 
-In the project directory, you can run:
+```bash
+npm install
+```
 
-### `npm start`
+## 실행
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 개발 서버 실행
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```bash
+npm start
+```
 
-### `npm test`
+[http://localhost:3000](http://localhost:3000)에서 앱을 확인할 수 있습니다.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 프로덕션 빌드
 
-### `npm run build`
+```bash
+npm run build
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`build` 폴더에 최적화된 프로덕션 빌드가 생성됩니다.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 테스트
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm test
+```
 
-### `npm run eject`
+## KCDS 패키지
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+이 프로젝트에서 사용하는 KCDS 패키지:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- `@kt-cloud-front/ui-common` - 공통 유틸리티
+- `@kt-cloud-front/ui-core-react` - 코어 React 컴포넌트
+- `@kt-cloud-front/ui-react` - UI React 컴포넌트
+- `@kt-cloud-front/ui-react-grid` - 그리드 컴포넌트
+- `@kt-cloud-front/ui-style` - 스타일 시스템
+- `@kt-cloud-front/ui-style-react` - React 스타일 컴포넌트
