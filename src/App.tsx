@@ -8,8 +8,8 @@ import './App.css';
 
 function App() {
   return (
-      <div className="App">
-        <SButton>버튼</SButton>
+      <div className="App" style={{ padding: '32px' }}>
+        <SButton>기본 버튼</SButton>
       </div>
   );
 }
