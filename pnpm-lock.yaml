@@ -9,23 +9,23 @@ importers:
   .:
     dependencies:
       '@kt-cloud-front/ui-common':
-        specifier: 1.0.4
-        version: 1.0.4(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        specifier: 1.0.5
+        version: 1.0.5(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@kt-cloud-front/ui-core-react':
-        specifier: 1.0.4
-        version: 1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        specifier: 1.0.5
+        version: 1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@kt-cloud-front/ui-react':
-        specifier: 1.0.4
-        version: 1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        specifier: 1.0.5
+        version: 1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@kt-cloud-front/ui-react-grid':
-        specifier: 1.0.4
-        version: 1.0.4(@kt-cloud-front/ui-react@1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(ag-grid-community@33.3.2)(ag-grid-react@33.3.2(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        specifier: 1.0.5
+        version: 1.0.5(@kt-cloud-front/ui-react@1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(ag-grid-community@33.3.2)(ag-grid-react@33.3.2(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@kt-cloud-front/ui-style':
-        specifier: 1.0.4
-        version: 1.0.4
+        specifier: 1.0.5
+        version: 1.0.5
       '@kt-cloud-front/ui-style-react':
-        specifier: 1.0.4
-        version: 1.0.4(@kt-cloud-front/ui-style@1.0.4)(tailwindcss@3.4.19)
+        specifier: 1.0.5
+        version: 1.0.5(@kt-cloud-front/ui-style@1.0.5)(tailwindcss@3.4.19)
       '@testing-library/dom':
         specifier: ^10.4.1
         version: 10.4.1
@@ -1040,35 +1040,35 @@ packages:
   '@jridgewell/trace-mapping@0.3.9':
     resolution: {integrity: sha512-3Belt6tdc8bPgAtbcmdtNJlirVoTmEb5e2gC94PnkwEW9jI6CAHUeoG85tjWP5WquqfavoMtMwiG4P926ZKKuQ==}
 
-  '@kt-cloud-front/ui-common@1.0.4':
-    resolution: {integrity: sha512-+rYRevZybVjjtTZwHNA01PYi3H/aiLzkrrZoAey/wj4j0ANWIgNLjk6e0P63zJYQDOckDt2o7EfougtRRGirjg==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-common/1.0.4/d741c313ba101f81e9300cb1b130e3a8aaff5288}
+  '@kt-cloud-front/ui-common@1.0.5':
+    resolution: {integrity: sha512-pH5CzoXsjdImwv+DXx4Zr4kdnJViFS1w4wf9WGukt0uIlc4TOySeYrEtxONvzQxGoP38AinubiFNH5aY0pkUMQ==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-common/1.0.5/8490c3d69d5fec870cd314375fb10bacd229872c}
 
-  '@kt-cloud-front/ui-core-react@1.0.4':
-    resolution: {integrity: sha512-vrVWFRvhdDjmF8XMr/In3JlOP4hpd4mIluxB0fCF270voB2vKwPgBqpzmTp54CNyJimWg7YiPMgXNdZmxW+Pow==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-core-react/1.0.4/00b2cf9b660f04b646e862b7d284cca33282f65d}
+  '@kt-cloud-front/ui-core-react@1.0.5':
+    resolution: {integrity: sha512-wZ6P6nkHr23nG+4Ad906B3A7cOEQRHP9iwXCsZRx9oK5ebQzP7VnziX/dqTKzH+Nvjr38keQ1iIUDxh78T0S0A==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-core-react/1.0.5/617a177920ba8183e90185f31bdc257f6c80cd6c}
 
-  '@kt-cloud-front/ui-react-grid@1.0.4':
-    resolution: {integrity: sha512-bTdrhu5vocsxXFkiSDROHmZRglpmQZH8cUorcCmbFgXyMDBXOry0NdkdEf+MvDXlzSwPgzpsBN5u8OZC21SZ0A==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-react-grid/1.0.4/f1efe92be32634c0c2c5dfa182c610550ca4aa7e}
+  '@kt-cloud-front/ui-react-grid@1.0.5':
+    resolution: {integrity: sha512-8mPmGQ53IbfWk9Pkro4M5aElWcavWYtBYnkovP5DQ7jlCmaMWphBJSpTrM20Mitp+/oHEa9z8a5NxIIp1ybS1w==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-react-grid/1.0.5/b18a01673c58b1963d57021cfbbba02e12abca20}
     peerDependencies:
-      '@kt-cloud-front/ui-react': 1.0.4
+      '@kt-cloud-front/ui-react': 1.0.5
       ag-grid-community: ^33.3.0
       ag-grid-react: ^33.3.0
       react: ^18.0.0 || ^19.0.0
       react-dom: ^18.0.0 || ^19.0.0
 
-  '@kt-cloud-front/ui-react@1.0.4':
-    resolution: {integrity: sha512-EJCpuuasqPzvZPtAt4Zv4dJnFXyOwgX/DTGrV+mF20H/mHMtzkIo7rbnu9KMhZDcIBm0yoTHUcJhUfEhbmB8UA==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-react/1.0.4/5d4defe67b0712a75c879adaf09af7073ae0a54f}
+  '@kt-cloud-front/ui-react@1.0.5':
+    resolution: {integrity: sha512-OALnbz7Ij4aHa09m7xThvsCmtJ8ra9fZeJYaKKvyFYwvzTd8DE/yasIgklEjqEo9zUGW1mFNMEdl68Ga8ZNL7g==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-react/1.0.5/65f5eac5f97b0d6db54189956fc5bfdfb1225768}
     peerDependencies:
       react: ^18.0.0 || ^19.0.0
       react-dom: ^18.0.0 || ^19.0.0
 
-  '@kt-cloud-front/ui-style-react@1.0.4':
-    resolution: {integrity: sha512-ov4afhIKYmtxhdVMUHzb32rYG8PBaKM7ldE7YfDXbcB3r/4nc7LFZ7LmgUrcVnDxW/58Qq6f4uuAFOVhTgB6sA==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-style-react/1.0.4/5b2a8d0c35773e2057a825ad0b6ea71d4e2bb8f9}
+  '@kt-cloud-front/ui-style-react@1.0.5':
+    resolution: {integrity: sha512-MBURVCEBro3kMYBlnI1/N4Ocysr4UEfAxJ+ozBx25xQtxBPphJCN69uEg3XVP3aVUYXrNZt77oiCZOqTc3Bhcg==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-style-react/1.0.5/5c34ca0c6d767aa10247fe0759839d590dce90b4}
     peerDependencies:
-      '@kt-cloud-front/ui-style': 1.0.4
+      '@kt-cloud-front/ui-style': 1.0.5
       tailwindcss: ^4.0.0
 
-  '@kt-cloud-front/ui-style@1.0.4':
-    resolution: {integrity: sha512-JwATHkEOyEddeQjkX4VEEjNJi50ucde9AMGb0Fk5OfVFtTC/YS0M4LVTe0IneyP/ttTwElzyKWLKGBBLW8HeSA==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-style/1.0.4/1fd7e8713ce3ef012a5eb9b6707a6a974b2557a9}
+  '@kt-cloud-front/ui-style@1.0.5':
+    resolution: {integrity: sha512-HWLtwtw6hzwdR3T3jYZvvgMekO6tQq8wQTzfA2by0QkCJIrth6mNk973BYQTFubH5fKG/Epar7VRDyk0s77SFA==, tarball: https://npm.pkg.github.com/download/@kt-cloud-front/ui-style/1.0.5/49bdcfe3c11af4bf7113643feff9073321ab35b1}
 
   '@leichtgewicht/ip-codec@2.0.5':
     resolution: {integrity: sha512-Vo+PSpZG2/fmgmiNzYK9qWRh8h/CHrwD0mo1h1DzL4yzHNSfWYujGTYsWGreD000gcgmZ7K4Ys6Tx9TxtsKdDw==}
@@ -7506,7 +7506,7 @@ snapshots:
       '@jridgewell/sourcemap-codec': 1.5.5
     optional: true
 
-  '@kt-cloud-front/ui-common@1.0.4(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
+  '@kt-cloud-front/ui-common@1.0.5(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
     dependencies:
       clsx: 2.1.1
       lodash-es: 4.17.23
@@ -7517,11 +7517,11 @@ snapshots:
       - react
       - react-dom
 
-  '@kt-cloud-front/ui-core-react@1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
+  '@kt-cloud-front/ui-core-react@1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
     dependencies:
       '@emotion/is-prop-valid': 1.4.0
-      '@kt-cloud-front/ui-common': 1.0.4(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
-      '@kt-cloud-front/ui-style': 1.0.4
+      '@kt-cloud-front/ui-common': 1.0.5(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      '@kt-cloud-front/ui-style': 1.0.5
       '@radix-ui/react-accordion': 1.2.12(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@radix-ui/react-aspect-ratio': 1.1.8(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@radix-ui/react-checkbox': 1.3.3(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -7545,20 +7545,20 @@ snapshots:
       - react
       - react-dom
 
-  '@kt-cloud-front/ui-react-grid@1.0.4(@kt-cloud-front/ui-react@1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(ag-grid-community@33.3.2)(ag-grid-react@33.3.2(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
+  '@kt-cloud-front/ui-react-grid@1.0.5(@kt-cloud-front/ui-react@1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(ag-grid-community@33.3.2)(ag-grid-react@33.3.2(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
     dependencies:
-      '@kt-cloud-front/ui-react': 1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      '@kt-cloud-front/ui-react': 1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       ag-grid-community: 33.3.2
       ag-grid-react: 33.3.2(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       react: 19.2.4
       react-dom: 19.2.4(react@19.2.4)
 
-  '@kt-cloud-front/ui-react@1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
+  '@kt-cloud-front/ui-react@1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
     dependencies:
       '@emotion/is-prop-valid': 1.4.0
-      '@kt-cloud-front/ui-common': 1.0.4(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
-      '@kt-cloud-front/ui-core-react': 1.0.4(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
-      '@kt-cloud-front/ui-style': 1.0.4
+      '@kt-cloud-front/ui-common': 1.0.5(@emotion/is-prop-valid@1.4.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      '@kt-cloud-front/ui-core-react': 1.0.5(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      '@kt-cloud-front/ui-style': 1.0.5
       '@radix-ui/react-scroll-area': 1.2.10(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       '@tanstack/react-table': 8.21.3(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       class-variance-authority: 0.7.1
@@ -7573,12 +7573,12 @@ snapshots:
       - '@types/react'
       - '@types/react-dom'
 
-  '@kt-cloud-front/ui-style-react@1.0.4(@kt-cloud-front/ui-style@1.0.4)(tailwindcss@3.4.19)':
+  '@kt-cloud-front/ui-style-react@1.0.5(@kt-cloud-front/ui-style@1.0.5)(tailwindcss@3.4.19)':
     dependencies:
-      '@kt-cloud-front/ui-style': 1.0.4
+      '@kt-cloud-front/ui-style': 1.0.5
       tailwindcss: 3.4.19
 
-  '@kt-cloud-front/ui-style@1.0.4': {}
+  '@kt-cloud-front/ui-style@1.0.5': {}
 
   '@leichtgewicht/ip-codec@2.0.5': {}
 
