@@ -1,5 +1,5 @@
 import type { JSX } from 'react'
-import './TestPage.css'
+import './TokenSample.css'
 
 /**
  * KCDS Token 종합 테스트 페이지 (CSS 버전)
@@ -20,7 +20,7 @@ function Section({ title, children }: { title: string; children: React.ReactNode
 
 /* ── 메인 페이지 ── */
 
-export default function TestPage(): JSX.Element {
+export function TokenSample(): JSX.Element {
   return (
     <div className="tp-page">
       <h1 className="tp-title">KCDS Token 종합 테스트 (CSS 버전)</h1>
