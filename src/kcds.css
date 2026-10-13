@@ -1,0 +1,8 @@
+/* Tailwind v4 입력 파일 — `pnpm kcds:css` 가 public/kcds.generated.css 로 컴파일하고 index.html 이 링크한다 (CRA 는 Tailwind v4 를 직접 처리하지 못함) */
+@import 'tailwindcss';
+@import '@kt-cloud-front/ui-style/tailwind';
+@import '@kt-cloud-front/ui-style-react';
+
+@source "./**/*.{ts,tsx}";
+@source "../node_modules/@kt-cloud-front/ui-react/dist/**/*.{js,cjs}";
+@source "../node_modules/@kt-cloud-front/data-grid/dist/**/*.js";

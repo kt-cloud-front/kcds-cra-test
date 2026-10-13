@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Tailwind v4 CLI 산출물 (pnpm kcds:css)
+/public/kcds.generated.css
